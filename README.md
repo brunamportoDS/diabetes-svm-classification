@@ -1,4 +1,3 @@
-# diabetes-svm-classification
 # Predicting Diabetes from Health and Lifestyle Indicators
 
 Support Vector Machine classifiers (linear, RBF, and polynomial kernels) trained to predict diabetes status using demographic and lifestyle data from the 2022 National Health Interview Survey.
