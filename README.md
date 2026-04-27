@@ -52,7 +52,6 @@ All three kernels achieve comparable performance (within 0.01 AUC of each other)
 ## Files
 
 - `diabetes_svm_analysis.ipynb` - Main analysis notebook (data cleaning, model fitting, evaluation, and visualization)
-- `figures/` - Generated plots (predictor distributions, ROC curves, decision boundaries)
 
 ## Reproducibility
 
